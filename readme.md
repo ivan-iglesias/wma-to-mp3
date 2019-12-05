@@ -27,4 +27,4 @@ Inside the script, LOG_LEVEL constant indicates the logging level used by the li
 
 ## Licensing
 
-This project is licensed under the [MIT](https://github.com/ivan-iglesias/wma-to-mp3/LICENSE) License.
+This project is licensed under the [MIT](https://github.com/ivan-iglesias/wma-to-mp3/blob/master/LICENSE) License.
